@@ -1,5 +1,4 @@
 const btnget = document.querySelector('#addBtn');
-const charDisplay = document.querySelector('#charDisplay');
 const input = document.querySelector('input');
 const cardOutput = document.querySelector('#cardoutput');
 
