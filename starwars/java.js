@@ -24,6 +24,7 @@ const getChar = () => {
             function displayCharStats(data) {
                 const character = data.result[0];
                 input.value = ''; 
+                cardOutput.innerHTML = = '';
                 cardOutput.innerHTML = `
             
                 <div class="card" style="width: 18rem;">
